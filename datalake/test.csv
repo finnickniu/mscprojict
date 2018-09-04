@@ -1,0 +1,5 @@
+Sdate,Cosit,LaneNumber,LaneDescription,LaneDirection,DirectionDescription,Volume,Flags,Flag Text,AvgSpeed,PmlHGV,Class1Volume,Class2Volume,Class3Volume,Class4Volume,Class5Volume,Class6Volume,date,hours,weekday
+2017-12-30 19:00:00,1083,3,NB_OS,1,North,247,0,,16342,12,0,244,0,3,0,0,2017-12-30,19:00:00,6
+2017-12-30 20:00:00,1083,3,NB_OS,1,North,211,0,,15875,0,0,211,0,0,0,0,2017-12-30,20:00:00,6
+2017-12-30 21:00:00,1083,3,NB_OS,1,North,134,0,,17032,7,1,132,0,1,0,0,2017-12-30,21:00:00,6
+2017-12-30 22:00:00,1083,3,NB_OS,1,North,122,0,,16382,16,0,120,0,2,0,0,2017-12-30,22:00:00,6
